@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-readme git hub.txt
-Menampilkan readme git hub.txt.
+
